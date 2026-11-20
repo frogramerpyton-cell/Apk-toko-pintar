@@ -1,1 +1,6 @@
-
+streamlit
+streamlit-webrtc
+opencv-python-headless
+pandas
+plotly
+face_recognition
